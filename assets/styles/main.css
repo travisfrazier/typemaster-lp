@@ -93,6 +93,7 @@ button {
 .button-2 {
   background: #e8eff2;
   color: #162542;
+  transition: all 0.35s ease-in;
 }
 .button-2:hover {
   background: #162542;
@@ -102,6 +103,7 @@ button {
 .button-1 {
   background: #f16718;
   color: #ffffff;
+  transition: all 0.35s ease-in;
 }
 .button-1:hover {
   background: #ff9b62;

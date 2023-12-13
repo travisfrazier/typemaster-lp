@@ -24,3 +24,10 @@ gsap.to('.feature-section-item', {
     },
     stagger: 0.5
 })
+
+easyScrollDots({
+    'fixedNav': false,
+    'fixedNavId': '',
+    'fixedNavUpward': false,
+    'offset': 0
+  });

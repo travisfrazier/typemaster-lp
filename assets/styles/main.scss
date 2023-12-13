@@ -53,6 +53,7 @@ button {
 .button-2 {
     background: $color-grey;
     color: $color-dark-blue;
+    transition: all .35s ease-in;
     &:hover {
         background: $color-dark-blue;
         color: $color-white;
@@ -62,6 +63,7 @@ button {
 .button-1 {
     background: $color-orange;
     color: $color-white;
+    transition: all .35s ease-in;
     &:hover {
         background: $color-peach;
     };
